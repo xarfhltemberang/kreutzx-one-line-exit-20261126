@@ -12,8 +12,8 @@ even process someone leaving.
 import os
 
 ENTRY = (
-    "I hereby resign \u2014 the office printer has jammed on this letter "
-    "four times, and I refuse to work somewhere that won't even let me leave."
+    "I hereby resign. The printer jammed on this letter four times, "
+    "so I am delivering it by hand and not coming back."
 )
 
 
